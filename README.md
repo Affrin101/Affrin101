@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](affrinsultana1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affrinsultana/)
 - 😄 Pronouns: She/her
 
-
+Feel free to check out some of the cool projects that I have worked on.
 
