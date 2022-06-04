@@ -2,6 +2,7 @@
 
 I'm Affrin.Welcome to my Github Profile. 
 I am a seasoned analytics professional with 4+ years of experience as a Business Analyst turned Consultant in Deloitte. I love to solve problems using my DS skills.
+My current goal is to learn about MLOps.
 
 - 🎓 I'm currently pursuing Master of Data Science from The University of British Columbia, Vancouver(2021-2022).
 - 🔭 I’m currently working on 2-month Industry Capstone Project with a Silicon Valley start-up. I am also working on building my website(Coming soon!!)
