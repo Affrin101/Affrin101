@@ -8,7 +8,7 @@ My current goal is to learn about MLOps.
 - 🔭 I’m currently working on 2-month Industry Capstone Project with a Silicon Valley start-up. I am also working on building my website(Coming soon!!)
 - 🌱 I’m currently learning Deep Learning, Pruning , Data Storytelling.
 - 👯 I’m looking to collaborate on Machine Learning Projects, NLP or Computer vision Projects or anything on Dashboarding/visualization
-- 💬 Ask me about Data Science, Analytics, Life in Deloitte, Life as a UBC student, MS in Canada, food, Vancouver and more.
+- 💬 Ask me about Data Science, Analytics, Computer Vision, Deep Learning and more.
 - 📫 How to reach me: [Email](affrinsultana1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/affrinsultana/)
 - 😄 Pronouns: She/her
 
